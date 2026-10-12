@@ -1,0 +1,5 @@
+{
+  "version": "1.2.0",
+  "package_url": "https://example.com/CRMS_Update_Package.zip",
+  "sha256": "REPLACE_WITH_REAL_64_CHARACTER_SHA256"
+}
